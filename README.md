@@ -46,6 +46,6 @@ appendix.html  images  index.html  intro.html  main_1.html  main_2.html  main_3.
 
 ## Reference
 
-The the Re:VIEW style files and the Docker container used the following repository content:
+The Re:VIEW style files and the Docker container used the following repository content:
 
  * [C89-FirstStepReVIEW-v2](https://github.com/TechBooster/C89-FirstStepReVIEW-v2)
