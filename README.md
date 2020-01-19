@@ -2,6 +2,8 @@
 
 This is a [Re:VIEW](https://reviewml.org/) format source files for my book 『フルスクラッチで作る!UEFIベアメタルプログラミング』.
 
+PDF and HTML versions of this book are available at http://yuma.ohgami.jp .
+
 ## Setup
 
 Please use the following docker container.
