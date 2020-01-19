@@ -34,5 +34,5 @@ docker run -t --rm -v $(pwd):/book yohgami/review /bin/bash -ci \
 sudo chown -R $(id -u):$(id -g) .
 
 if [ "${type}" = "html" ]; then
-	cd articles/ && ./html.sh ${BOOK_TITLE}
+	cd articles/ && ./html.sh "${BOOK_TITLE}"
 fi
