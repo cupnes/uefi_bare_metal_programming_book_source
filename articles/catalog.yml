@@ -1,0 +1,14 @@
+PREDEF:
+  - intro.re
+
+CHAPS:
+  - main_1.re
+  - main_2.re
+  - main_3.re
+  - main_4.re
+  - main_5.re
+  - appendix.re
+
+POSTDEF:
+  - postscript.re
+  - refs.re
